@@ -12,7 +12,7 @@ object NewTypes {
 
     def passStrict(n: 3) = println(n)
     passStrict(three)
-    //passStrict(45) not ok func passStrict Mandatory parameter n
+    //passStrict(45) not ok func passStrict Mandatory parameter n = 3
 
     val pi: 3.14 = 3.14
     val truth: true = true
